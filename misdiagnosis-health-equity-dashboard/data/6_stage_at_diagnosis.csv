@@ -1,0 +1,5 @@
+condition,stage_measure,race_group,sex,percent,source_short,source_url
+Breast cancer,Diagnosed at localized (early) stage,Black,Women,58,American Cancer Society 2022-2024,https://www.cancer.org/research/acs-research-news/breast-cancer-death-rates-are-highest-for-black-women-again.html
+Breast cancer,Diagnosed at localized (early) stage,White,Women,68,American Cancer Society 2022-2024,https://www.cancer.org/research/acs-research-news/breast-cancer-death-rates-are-highest-for-black-women-again.html
+Cervical cancer,Diagnosed at early stage,Black,Women,41.7,Cervical cancer stage disparities (PMC10726717),https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10726717/
+Cervical cancer,Diagnosed at early stage,White,Women,53.3,Cervical cancer stage disparities (PMC10726717),https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10726717/

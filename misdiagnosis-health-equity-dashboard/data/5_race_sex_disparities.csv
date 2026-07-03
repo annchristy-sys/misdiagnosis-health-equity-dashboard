@@ -1,0 +1,9 @@
+condition,metric,group,comparison_group,value,unit,source_short,source_url
+Sepsis,Sepsis-related mortality relative risk,Black Americans,White Americans,2.0,x times,Sepsis race meta-analysis (PubMed 31144133),https://pubmed.ncbi.nlm.nih.gov/31144133/
+Sepsis,Sepsis incidence & mortality risk (range),Black Americans,White Americans,1.5,x times (low end),Racial disparities in sepsis (PMC6315577),https://pmc.ncbi.nlm.nih.gov/articles/PMC6315577/
+Sepsis,Sepsis incidence & mortality risk (range),Black Americans,White Americans,3.5,x times (high end),Racial disparities in sepsis (PMC6315577),https://pmc.ncbi.nlm.nih.gov/articles/PMC6315577/
+Breast cancer,Breast cancer death risk,Black women,White women,38,percent higher,American Cancer Society 2022-2024,https://www.cancer.org/research/acs-research-news/breast-cancer-death-rates-are-highest-for-black-women-again.html
+Breast cancer,Breast cancer incidence,Black women,White women,-5,percent (lower),American Cancer Society 2022-2024,https://www.cancer.org/research/acs-research-news/breast-cancer-death-rates-are-highest-for-black-women-again.html
+Breast cancer,"Death rate, women under 50",Black women,White women,2.0,x times,American Cancer Society 2022-2024,https://www.cancer.org/research/acs-research-news/breast-cancer-death-rates-are-highest-for-black-women-again.html
+Breast cancer,Triple-negative / aggressive subtype rate,Black women,White women,2.0,x times,American Cancer Society 2022-2024,https://www.cancer.org/research/acs-research-news/breast-cancer-death-rates-are-highest-for-black-women-again.html
+Cervical cancer,Advanced-stage diagnosis odds ratio,Black women,White women,1.18,odds ratio,Cervical cancer inequities (PMC10726717),https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10726717/

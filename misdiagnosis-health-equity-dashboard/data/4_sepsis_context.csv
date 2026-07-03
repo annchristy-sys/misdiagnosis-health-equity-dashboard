@@ -1,0 +1,8 @@
+metric,value,unit,source
+Sepsis mortality rate (approx),30,percent,"Vincent, PLOS Medicine 2016 (Clinical Challenge of Sepsis)"
+ICU patients receiving antibiotics on a given day,71,percent,"Vincent, PLOS Medicine 2016 (Clinical Challenge of Sepsis)"
+ICU sepsis patients with negative cultures,35,percent (30-40% range),"Vincent, PLOS Medicine 2016 (Clinical Challenge of Sepsis)"
+Physicians saying sepsis symptoms easily misattributed,86,percent,"Vincent, PLOS Medicine 2016 (Clinical Challenge of Sepsis)"
+Physicians who feel they sometimes miss sepsis,45,percent,"Vincent, PLOS Medicine 2016 (Clinical Challenge of Sepsis)"
+Sepsis diagnostic error rate (national estimate),9.9,percent,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Sepsis serious harms per year,79000,people,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"

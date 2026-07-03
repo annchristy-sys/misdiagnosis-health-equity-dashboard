@@ -1,0 +1,9 @@
+group,comparison,metric,value,unit,condition_context,source
+Women,vs white men,Higher likelihood of misdiagnosis,20,percent (low end),All conditions,"Szabo, KFF Health News / NBC News, Jan 2024"
+Women,vs white men,Higher likelihood of misdiagnosis,30,percent (high end),All conditions,"Szabo, KFF Health News / NBC News, Jan 2024"
+Racial & ethnic minorities,vs white men,Higher likelihood of misdiagnosis,20,percent (low end),All conditions,"Szabo, KFF Health News / NBC News, Jan 2024"
+Racial & ethnic minorities,vs white men,Higher likelihood of misdiagnosis,30,percent (high end),All conditions,"Szabo, KFF Health News / NBC News, Jan 2024"
+Non-Hispanic Black mothers,vs non-Hispanic white mothers,Maternal mortality relative risk,2.6,x times,Maternal / peripartum cardiomyopathy,CDC NCHS 2021 (cited in KFF/NBC 2024)
+Black patients,vs white patients,5-year melanoma mortality relative risk,3.0,x times,Melanoma,AAMC (cited in KFF/NBC 2024)
+Dark-skin images in medical textbooks,share of all images,Representation,4.5,percent,Training materials,J Am Acad Dermatol 2020 (cited in KFF/NBC 2024)
+Hospital patients who died/transferred to ICU,had a diagnostic error,Error prevalence,23,percent (~1 in 4),Inpatient,"Auerbach et al., JAMA Intern Med Jan 2024"

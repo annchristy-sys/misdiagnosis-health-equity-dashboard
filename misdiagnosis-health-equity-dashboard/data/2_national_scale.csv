@@ -1,0 +1,11 @@
+metric,value,unit,year,source
+Serious harms (death or permanent disability) from diagnostic error,795000,people/yr,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Deaths from diagnostic error,371000,people/yr,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Permanent disabilities from diagnostic error,424000,people/yr,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Total missed diagnoses across dangerous diseases,2588000,cases/yr,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Adults misdiagnosed annually (US),12000000,people/yr,2014,"Singh et al., BMJ Qual Saf 2014 (cited in KFF/NBC 2024)"
+Big Three share of serious harms,75,percent,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Top 15 diseases share of serious harms,50.7,percent,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Top 5 diseases share of serious harms,38.7,percent,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Average diagnostic error rate across Big Three,11.1,percent,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
+Harms preventable by halving errors in top 5 diseases,150000,people/yr,2023,"Newman-Toker et al., BMJ Qual Saf 2023 (Table 1)"
